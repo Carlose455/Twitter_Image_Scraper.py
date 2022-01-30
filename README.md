@@ -17,6 +17,8 @@ The program does not require anything outside the following modules:
 
 # Launch
 ## MacOSX
+### Using Terminal run the following command:
+python /Path/To/Script/gameover.py
 
 
 # Operating instructions
