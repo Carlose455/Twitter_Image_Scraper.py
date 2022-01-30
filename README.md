@@ -29,5 +29,6 @@ python "C:\Users\User\Path\To\Script\main.py"
 ```
 
 # Usage
+![lejupielāde](https://user-images.githubusercontent.com/93286889/151712657-174ff1e4-a356-444a-9ddf-789e1142d5c5.png)
 
 # Copyright and licensing information
