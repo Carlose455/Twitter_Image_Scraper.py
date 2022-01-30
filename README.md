@@ -29,6 +29,8 @@ python "C:\Users\User\Path\To\Script\main.py"
 ```
 
 # Usage
+![screen_name](https://user-images.githubusercontent.com/93286889/151712729-0f752700-bdb1-4654-9b4c-ad4135102ca3.PNG)
+![credentials](https://user-images.githubusercontent.com/93286889/151712720-2c4bd827-5f45-4ec5-a618-94279b1e1cd6.PNG)
 ![lejupielāde](https://user-images.githubusercontent.com/93286889/151712657-174ff1e4-a356-444a-9ddf-789e1142d5c5.png)
 
 # Copyright and licensing information
