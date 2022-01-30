@@ -32,7 +32,8 @@ python "C:\Users\User\Path\To\Script\main.py"
 ![credentials](https://user-images.githubusercontent.com/93286889/151712720-2c4bd827-5f45-4ec5-a618-94279b1e1cd6.PNG)
 ![lejupielāde](https://user-images.githubusercontent.com/93286889/151712657-174ff1e4-a356-444a-9ddf-789e1142d5c5.png)
 
-![screen_name2](https://user-images.githubusercontent.com/93286889/151712982-66917a45-8461-4ca4-a8e2-f5bf8a095311.PNG)
 ![screen_name](https://user-images.githubusercontent.com/93286889/151712729-0f752700-bdb1-4654-9b4c-ad4135102ca3.PNG)
+
+![screen_name2](https://user-images.githubusercontent.com/93286889/151712982-66917a45-8461-4ca4-a8e2-f5bf8a095311.PNG)
 
 # Copyright and licensing information
