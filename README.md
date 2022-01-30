@@ -19,8 +19,9 @@ The program does not require anything outside the following modules:
 
 ## MacOS
 ### Using Terminal run the following command:
+```
 python /Path/To/Script/main.py
-
+```
 or, consequently...
 
 python3 /Path/To/Script/main.py
