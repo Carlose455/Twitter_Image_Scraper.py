@@ -16,10 +16,17 @@ The program does not require anything outside the following modules:
 # Installation instructions
 
 # Launch
-## MacOSX
-### * Using Terminal run the following command:
-python /Path/To/Script/gameover.py
 
+## MacOS
+### Using Terminal run the following command:
+python /Path/To/Script/main.py
 
-# Operating instructions
+or, consequently...
+
+python3 /Path/To/Script/main.py
+
+## Windows
+### Using Command Prompt (Desktop app) run the following command:
+python "C:\Users\User\Path\To\Script\main.py"
+
 # Copyright and licensing information
