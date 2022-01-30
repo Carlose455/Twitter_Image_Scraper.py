@@ -15,15 +15,15 @@ The program does not require anything outside the following modules:
 
 # Installation instructions
 
-# Launch (from Command Line)
+## Launch (from Command Line)
 
-## MacOS
-### Using Terminal run the following command:
+### MacOS
+#### Using Terminal run the following command:
 ```
 python  /Users/User/Path/To/Script/main.py
 ```
-## Windows
-### Using Command Prompt (Desktop app) run the following command:
+### Windows
+#### Using Command Prompt (Desktop app) run the following command:
 ```
 python "C:\Users\User\Path\To\Script\main.py"
 ```
