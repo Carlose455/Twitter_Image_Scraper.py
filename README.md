@@ -20,16 +20,14 @@ The program does not require anything outside the following modules:
 ## MacOS
 ### Using Terminal run the following command:
 ```
-python /Path/To/Script/main.py
-```
-or, consequently...
-```
-python3 /Path/To/Script/main.py
+python  /Users/User/Path/To/Script/main.py
 ```
 ## Windows
 ### Using Command Prompt (Desktop app) run the following command:
 ```
 python "C:\Users\User\Path\To\Script\main.py"
 ```
+
+# Usage
 
 # Copyright and licensing information
