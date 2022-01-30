@@ -15,7 +15,7 @@ The program does not require anything outside the following modules:
 
 # Installation instructions
 
-# Launch
+# Launch (from Command Line)
 
 ## MacOS
 ### Using Terminal run the following command:
