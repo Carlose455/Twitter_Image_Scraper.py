@@ -48,6 +48,10 @@ And finally, simply run the program as shown bellow:
 
 ![third](https://user-images.githubusercontent.com/93286889/152049163-bf117516-fc3b-4a81-8e6e-b9c8909eb7e7.JPG)
 
+The scraped information is displayed as such:
 
+![info](https://user-images.githubusercontent.com/93286889/152049412-06dcf856-4228-4728-b0ca-3807c5fd5c78.JPG)
 
 # Copyright and licensing information
+
+This Project uses the GNU General Public License Version 3. 
