@@ -40,4 +40,9 @@ Then, set the name of the user you wish to scrape to the variable "screen_name" 
 
 ![screen_name2](https://user-images.githubusercontent.com/93286889/151712982-66917a45-8461-4ca4-a8e2-f5bf8a095311.PNG)
 
+And finally, simply run the program as shown bellow:
+
+
+
+
 # Copyright and licensing information
