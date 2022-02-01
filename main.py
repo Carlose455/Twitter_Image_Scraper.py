@@ -3,10 +3,10 @@ import requests
 import os
 import shutil
 
-consumer_key = "CJlZjc6NFWvFPKVgns7sf8DFI"
-consumer_secret = "VKVwZxskVWolRMrZa1ulYRFJAz3moLIDwHj0wWzTsEJETwdc7L"
-access_key = "1439595757414363142-I4dnAOpSL1nZ0Xg1NDeil6CzBTHb5A"
-access_secret = "YfkcE5oJVuj3GjAX16KxSI5YlDGBhfc3H0REcXTjWQqBq"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 screen_name = 'Twitter'
 
